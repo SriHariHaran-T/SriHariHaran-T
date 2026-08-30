@@ -12,7 +12,7 @@
 
 - If you are interested in **Minecraft** content check out this channel definitely not **mine**!
 
-[<img width="200" height="200" alt="avatarHead3" src="https://github.com/user-attachments/assets/88b2b53e-e59d-48f1-8c0d-7ae6c92e547f" title="Check Out My YouTube Channel!" />](https://www.youtube.com/@heocraft)
+[<img width="200" height="200" alt="avatarHead" src="https://github.com/user-attachments/assets/42ef61f2-78ea-4fac-a2d3-b95a935d0e93" title="Check Out My YouTube Channel!" />](https://www.youtube.com/@heocraft)
 
 ---
 
