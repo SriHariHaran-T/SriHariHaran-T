@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm Hari (aka Heo)!
 
-<!--
-**SriHariHaran-T/SriHariHaran-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College student at TCE exploring **software, AI, and everything I can build with code.**
 
-Here are some ideas to get you started:
+- Currently working on **recraft** a project I'm building and experimenting with.
+ 
+- Currently learning **Python** and **C** getting deeper into software development and web development.
+  
+- Interested in **AI, automation, developer tools, and practical projects**.
+  
+- How to reach me: **haricrafttbusiness@gmail.com / [@haricraftt](https://www.instagram.com/haricraftt) / [@SriHariHaran-T](https://github.com/SriHariHaran-T)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- If you are interested in **Minecraft** content check out this channel definitely not **mine**!
+
+[<img width="200" height="200" alt="transparent" src="https://github.com/user-attachments/assets/133fbad7-d331-4877-b16a-dd8873fb2dcf" title="Check Out My YouTube Channel!" />](https://www.youtube.com/@heocraft)
+
+---
+
+## Currently Learning & Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,linux,html,css,js" />
+</p>
+
+**Currently exploring:** AI • APIs • Automation • Web Development
+
+---
+
+## Featured Project
+
+### recraftt.
+
+My current project where I'm experimenting with **Python, AI, APIs, and software development**. 
+
+I'm building a learning loop that gives people who want to speak English more fluently a safe training ground to practice, build confidence, and improve over time.
+
+[**View On GitHub**](https://github.com/SriHariHaran-T/recraft)
+
+---
+
