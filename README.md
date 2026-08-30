@@ -14,6 +14,11 @@
 
 [<img width="200" height="200" alt="avatarHead" src="https://github.com/user-attachments/assets/42ef61f2-78ea-4fac-a2d3-b95a935d0e93" title="Check Out My YouTube Channel!" />](https://www.youtube.com/@heocraft)
 
+![status](https://api.statusbadges.me/badge/status/1009849655133229067?simple=true&style=for-the-badge) 
+![playing](https://api.statusbadges.me/badge/playing/1009849655133229067&style=for-the-badge) 
+![vscode](https://api.statusbadges.me/badge/vscode/1009849655133229067&style=for-the-badge) 
+[![spotify](https://api.statusbadges.me/badge/spotify/1009849655133229067?style=for-the-badge)](https://api.statusbadges.me/openspotify/1009849655133229067)
+
 ---
 
 ## Currently Learning & Exploring
