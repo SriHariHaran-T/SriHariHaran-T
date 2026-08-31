@@ -14,7 +14,7 @@
 
 - If you are interested in **Minecraft/Tech** content check out these channel definitely not **mine**!
 
-[<img width="200" height="200" alt="avatarHead" src="https://github.com/user-attachments/assets/42ef61f2-78ea-4fac-a2d3-b95a935d0e93" title="Check Out My Minecraft Channel!" />](https://www.youtube.com/@heocraft) [<img width="200" height="200" alt="avatarBlob" src="https://github.com/user-attachments/assets/d5bae35b-8ebb-413e-8f78-e7a422ab8efc" title="Check Out My Tech Channel!" />](https://www.youtube.com/@heodoescode)
+[<img width="200" height="200" alt="avatarHead" src="https://github.com/user-attachments/assets/42ef61f2-78ea-4fac-a2d3-b95a935d0e93" title="Check Out My Minecraft Channel!" />](https://www.youtube.com/@heocraft) [<img width="200" height="200" alt="avatarBlob" src="https://github.com/user-attachments/assets/d5bae35b-8ebb-413e-8f78-e7a422ab8efc" title="Check Out My Tech Channel!" />](https://www.youtube.com/@heodoestech)
 
 
 ![status](https://api.statusbadges.me/badge/status/1009849655133229067?simple=true&style=for-the-badge) 
