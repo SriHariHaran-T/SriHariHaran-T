@@ -42,7 +42,7 @@ My current project where I'm experimenting with **Python, AI, APIs, and software
 
 I'm building a learning loop that gives people who want to speak English more fluently a safe training ground to practice, build confidence, and improve over time.
 
-[**View On GitHub**](https://github.com/SriHariHaran-T/recraft)
+[**View On GitHub**](https://github.com/SriHariHaran-T/recraftt)
 
 ---
 
