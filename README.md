@@ -4,11 +4,13 @@
 
 - Currently working on **recraft** a project I'm building and experimenting with.
  
-- Currently learning **Python** and **C** getting deeper into software development and web development.
+- Currently learning **Python** and **C** to get deeper into software development and web development.
   
 - Interested in **AI, automation, developer tools, and practical projects**.
   
-- How to reach me: **haricrafttbusiness@gmail.com / [@haricraftt](https://www.instagram.com/haricraftt) / [@SriHariHaran-T](https://github.com/SriHariHaran-T)**
+- How to reach me: **Instagram [@heodoestech](https://www.instagram.com/heodoestech) / LinkedIn [@Sri Hari Haran T](https://www.linkedin.com/in/tsrihariharan/) / Discord [@haricraftt](https://discord.com/users/haricraftt)**
+
+- I run **[haricraftt](https://haricraftt.lovable.app/)**, where I provide **YouTube thumbnail design** and **Video Editing** services.
 
 - If you are interested in **Minecraft** content check out this channel definitely not **mine**!
 
