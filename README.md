@@ -2,7 +2,7 @@
 
 🎓 College student at TCE exploring **software, AI, and everything I can build with code.**
 
-- Currently working on **recraft** a project I'm building and experimenting with.
+- Currently working on **recraftt.** a project I'm building and experimenting with.
  
 - Currently learning **Python** and **C** to get deeper into software development and web development.
   
