@@ -6,18 +6,16 @@ Data Science student at TCE who enjoys building things, exploring Linux, and tur
 
 I'm currently deep-diving into Arch Linux and learning more about the Linux environment through customization, configuration, and experimentation.
 
-Content creation is one of my main goals. I run **[@heodoestech](https://www.instagram.com/heodoestech/)** where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
-
-Long term, I want to create and release my own Linux distribution.
+Content creation and creating my own Linux distribution are my long-term goals. I run **[@heodoestech](https://www.instagram.com/heodoestech/)** where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
 
 ## Currently Working On
 
-- Customizing and exploring Arch Linux
-- Building the MVP of recraftt.
+- Customizing and exploring **Arch Linux**
+- Building the MVP of **[recraftt.](https://github.com/SriHariHaran-T/recraftt)**
 
 ## Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,bash,git,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,git,neovim,vscode,c,python)](https://skillicons.dev)
 
 ## Featured Project
 
@@ -51,13 +49,13 @@ I like building and experimenting on older hardware, currently running Arch Linu
 | File Manager | Thunar |
 | Font | JetBrains Mono Nerd Font |
 
-## Content
+## Content Creation
 
 **[@heodoestech](https://www.instagram.com/heodoestech/)**  
 Arch Linux, ricing, Linux experiments, PC projects, tutorials, and software experiments.
 
 **[@heocraft](https://www.youtube.com/@heocraft)**  
-Minecraft content. This is a separate project that I may eventually discontinue.
+Minecraft content and challenges.
 
 ## Connect
 
@@ -65,4 +63,4 @@ Minecraft content. This is a separate project that I may eventually discontinue.
 
 ---
 
-I just want to do tech stuff.
+At the end of the day, I just want to do tech stuff.
