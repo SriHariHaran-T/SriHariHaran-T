@@ -49,6 +49,21 @@ I like building and experimenting on older hardware, currently running Arch Linu
 | File Manager | Thunar |
 | Font | JetBrains Mono Nerd Font |
 
+## My Ricings
+
+<table>
+<tr>
+<td align="center"><b>Current</b></td>
+<td align="center"><b>Previous</b></td>
+<td align="center"><b>First Ricing</b></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/3afdd812-4024-41cc-9c58-943fbfcfec66" width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/78dc0eb7-f291-4029-a5d7-5daee7467cf2" width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/8a501422-9037-4b17-8146-94ecb5afb840" width="300"></td>
+</tr>
+</table>
+
 ## Content Creation
 
 **[@heodoestech](https://www.instagram.com/heodoestech/)**  
