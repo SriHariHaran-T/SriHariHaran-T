@@ -6,7 +6,7 @@ Data Science student at TCE who enjoys building things, exploring Linux, and tur
 
 I'm currently deep-diving into Arch Linux and learning more about the Linux environment through customization, configuration, and experimentation.
 
-Content creation is one of my main goals. I run [@heodoestech](https://www.instagram.com/heodoestech/) where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
+Content creation is one of my main goals. I run **[@heodoestech](https://www.instagram.com/heodoestech/)** where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
 
 Long term, I want to create and release my own Linux distribution.
 
@@ -61,7 +61,7 @@ Minecraft content. This is a separate project that I may eventually discontinue.
 
 ## Connect
 
-**[Instagram](https://www.instagram.com/srihariharant/) · [LinkedIn](www.linkedin.com/in/tsrihariharan) · [Email](mailto:tsrihariharan222009@gmail.com)**
+**[Instagram](https://www.instagram.com/srihariharant/)** • **[LinkedIn](https://www.linkedin.com/in/tsrihariharan/)** • **[Email](mailto:tsrihariharan222009@gmail.com)**
 
 ---
 
