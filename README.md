@@ -6,7 +6,7 @@ Data Science student at TCE who enjoys building things, exploring Linux, and tur
 
 I'm currently deep-diving into Arch Linux and learning more about the Linux environment through customization, configuration, and experimentation.
 
-Content creation and creating my own Linux distribution are my long-term goals. I run **[@heodoestech](https://www.instagram.com/heodoestech/)** where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
+**Content creation** and creating my own **Linux distribution** are my long-term goals. I run **[@heodoestech](https://www.instagram.com/heodoestech/)** where I make content around Arch ricing, Linux experiments, PC projects, tutorials, software experiments, and things I learn while building.
 
 ## Currently Working On
 
