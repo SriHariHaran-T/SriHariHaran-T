@@ -10,20 +10,13 @@ I'm currently deep-diving into Arch Linux and learning more about the Linux envi
 
 ## Currently Working On
 
-- Customizing and exploring **Arch Linux**
-- Building the MVP of **[recraftt.](https://github.com/SriHariHaran-T/recraftt)**
+- Exploring and learning about **[Arch Linux](https://archlinux.org/)**
+- Learning **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))** and **[Neovim](https://neovim.io/)**
+- Making Linux and Tech-focused content on **[@heodoestech](https://www.instagram.com/heodoestech/)**
 
 ## Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,git,neovim,vscode,c,python)](https://skillicons.dev)
-
-## Featured Project
-
-### [recraftt.](https://github.com/SriHariHaran-T/recraftt)
-
-recraftt. records your voice, transcribes it in the cloud, and delivers instant, actionable feedback on your speaking habits, from pace and filler words to AI-powered rephrasing suggestions.
-
-**Status:** MVP
 
 ## My Setup
 
