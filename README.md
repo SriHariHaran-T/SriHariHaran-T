@@ -67,7 +67,7 @@ Minecraft content and challenges.
 
 ## Connect
 
-**[Instagram](https://www.instagram.com/srihariharant/)** • **[LinkedIn](https://www.linkedin.com/in/tsrihariharan/)** • **[Email](mailto:tsrihariharan222009@gmail.com)**
+**[Instagram](https://www.instagram.com/srihariharant/)** • **[LinkedIn](https://www.linkedin.com/in/tsrihariharan/)** • **[Email](mailto:heodoestech@proton.me)**
 
 ---
 
