@@ -37,7 +37,7 @@ I like building and experimenting on older hardware, currently running Arch Linu
 | --- | --- |
 | OS | Arch Linux |
 | WM | dwm |
-| Display Server | X11 |
+| Compositor | X11 |
 | Terminal | Kitty |
 | File Manager | Thunar |
 | Font | JetBrains Mono Nerd Font |
