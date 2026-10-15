@@ -14,6 +14,12 @@ I'm currently deep-diving into Arch Linux and learning more about the Linux envi
 - Learning **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))** and **[Neovim](https://neovim.io/)**
 - Making Linux and Tech-focused content on **[@heodoestech](https://www.instagram.com/heodoestech/)**
 
+## Featured Project
+
+**[heofetch](https://github.com/SriHariHaran-T/heofetch)**
+- A lightweight Bash-based system information tool built on Arch Linux as my first shell scripting project. Inspired by tools like Fastfetch and Neofetch, heofetch is a work in progress as I continue learning Bash and Linux.
+
+
 ## Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,git,neovim,vscode,c,python)](https://skillicons.dev)
