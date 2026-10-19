@@ -57,7 +57,7 @@ I like building and experimenting on older hardware, currently running Arch Linu
 <td align="center"><b>First Ricing</b></td>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/c9e3571e-c2d0-4aa4-819d-b853cd319e63" width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/9ade0663-a38a-4845-9221-4d8793f69f5d" width="300"></td>
 <td><img src="https://github.com/user-attachments/assets/3afdd812-4024-41cc-9c58-943fbfcfec66" width="300"></td>
 <td><img src="https://github.com/user-attachments/assets/8a501422-9037-4b17-8146-94ecb5afb840" width="300"></td>
 </tr>
