@@ -16,7 +16,7 @@ I'm currently deep-diving into Arch Linux and learning more about the Linux envi
 
 ## Featured Project
 
-**[heofetch](https://github.com/SriHariHaran-T/heofetch)**
+**[JustFetch](https://github.com/SriHariHaran-T/JustFetch)**
 - A lightweight Bash-based system information tool built on Arch Linux as my first shell scripting project. Inspired by tools like Fastfetch and Neofetch, heofetch is a work in progress as I continue learning Bash and Linux.
 
 
